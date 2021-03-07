@@ -1,3 +1,5 @@
+<a href="https://www.youtube.com/channel/UCDdwb3fXESCSVd0iE3Xs2Eg"><img align="center" src="https://cdn.discordapp.com/attachments/799906877429383188/818152718974713856/20210118_214839.png"/></a>
+
 ### Hi there 👋 I'm Visal
 
 ## ABOUT ME
