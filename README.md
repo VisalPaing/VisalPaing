@@ -4,7 +4,7 @@
 Self Starter & Quick Learner, Passionate about Coding & Technology as well as shipping my ideas into apps, Encouraging others to code through Coding Blogs & my YouTube Channel.
 
 - 🎬 YouTuber @ [EREN Code](https://www.youtube.com/channel/UCDdwb3fXESCSVd0iE3Xs2Eg)
-- 👨🏻‍💻 Cambodian App Developer
+- 👨🏻‍💻 Cambodian  Developer
 - 🔭 Open Source Enthusiastic
 - ## MY GIT STATS
 ![Dhanraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=VisalPaing&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) 
