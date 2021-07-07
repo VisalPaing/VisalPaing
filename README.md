@@ -29,7 +29,7 @@ If you want to sponser me I can promote ur product in my Discord Server and My s
 - Instagrame : [visal_paing](https://www.instagram.com/visal_paing/) <br>
 
 ## 🌐 My Discord Bot Project
-[![EREN MUSIC BOT](https://cdn.discordapp.com/emojis/848960908281511966.png?v=1)](client_id=796578809360547891&permissions=4294967287&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth%2Fredirect&scope=bot%20applications.commands)
+[![Musicium Music Bot](https://cdn.discordapp.com/emojis/848960908281511966.png?v=1)](https://discord.com/api/oauth2/authorize?client_id=796578809360547891&permissions=4294967287&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth%2Fredirect&scope=bot%20applications.commands)
 
 ## 💠 MY GIT STATS
 ![Dhanraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=VisalPaing&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) 
