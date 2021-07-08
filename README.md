@@ -40,8 +40,6 @@ If you want to sponser me I can promote ur product in my Discord Server and My s
 ![lolipop](https://cdn.discordapp.com/emojis/862436307433947137.png?v=1)
 ![JonhDavid](https://media.discordapp.net/attachments/840670285984432189/862438337730052117/a_607938adfb4bc4b9bf4a90724bd4a3b6.gif?width=164&height=164)
 ![berry](https://media.discordapp.net/attachments/840670285984432189/862437715421560862/a_6cf1fb4800a3a17062a253030e9a2bb4.gif?width=173&height=173)
-![matin](https://user-images.githubusercontent.com/73647971/124876288-0a22d000-dff4-11eb-9101-56a9af40dd82.png)
-
 
 ## 💠 MY GIT STATS
 ![Dhanraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=VisalPaing&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) 
