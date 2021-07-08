@@ -8,25 +8,25 @@ Hello I'm Meezy and you can call me EREN , I'm a developer of EREN bot, Troxx Tw
 - 🎬 YouTuber @ [EREN Code](https://www.youtube.com/channel/UCDdwb3fXESCSVd0iE3Xs2Eg)
 - 👨🏻‍💻 Cambodian  Developer
 - 🔭 Open Source Enthusiastic
-- Discord : [Meezy#0226](https://discords.com/bio/p/meezy)
-- Facebook : [Sal Sal](https://web.facebook.com/visalpaign)
-- Instagrame : [visal_paing](https://www.instagram.com/visal_paing/)
-- My Discord Server : [meezy.xyz](https://discord.gg/3nTFpUpq8M)
-- More information : [visalpaing.xyz](https://visalpaing.visalpaing.repl.co/)
+- 💠Discord : [Meezy#0226](https://discords.com/bio/p/meezy)
+- 💠Facebook : [Sal Sal](https://web.facebook.com/visalpaign)
+- 💠Instagrame : [visal_paing](https://www.instagram.com/visal_paing/)
+- 💠 My Discord Server : [meezy.xyz](https://discord.gg/3nTFpUpq8M)
+- 💠 More information : [visalpaing.xyz](https://visalpaing.visalpaing.repl.co/)
 
 ## 💰 Donation Me
 you can donation me it's help me to continune and i can get your donation to make new best project for you . Thank You 
-- **ABA**: 500 266 602 Name : Sokuntheary Sam <br>
-- **PayPal** : [donate me via paypal](https://www.paypal.com/donate?hosted_button_id=LMW4URER3SYYW) <br>
-- **Wing app**:  0965220357 Name: Paing Visal 
+- 💠**ABA**: 500 266 602 Name : Sokuntheary Sam <br>
+- 💠**PayPal** : [donate me via paypal](https://www.paypal.com/donate?hosted_button_id=LMW4URER3SYYW) <br>
+- 💠**Wing app**:  0965220357 Name: Paing Visal 
 
 ## 💉 I found sponser 
 If you want to sponser me I can promote ur product in my Discord Server and My social media, I have 1.4k Members in Discord Server and u can promote ur product in my server if you sponser me here my server discord [dev.royall.kh](https://discord.gg/xREJNunxwU), If you like me you contact me in below : 
 
-- Telegrame : 0967032410 <br>
-- Discord : [Meezy#0226](https://discords.com/bio/p/meezy) <br>
-- Facebook : [Sal Sal](https://web.facebook.com/visalpaign) <br>
-- Instagrame : [visal_paing](https://www.instagram.com/visal_paing/) <br>
+- 💠Telegrame : 0967032410 <br>
+- 💠Discord : [Meezy#0226](https://discords.com/bio/p/meezy) <br>
+- 💠Facebook : [Sal Sal](https://web.facebook.com/visalpaign) <br>
+- 💠Instagrame : [visal_paing](https://www.instagram.com/visal_paing/) <br>
 
 ## 💯 My sponser
 [![Troxx](https://cdn.discordapp.com/emojis/862435461129043998.png?v=1)](https://troxx.dev/)
