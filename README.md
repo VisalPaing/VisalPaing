@@ -4,7 +4,7 @@
 
 ## 👋 ABOUT ME
 ![lolipop](https://cdn.discordapp.com/emojis/860436737905262632.gif?v=1)  <br>
-Hello I'm Meezy and you can call me EREN , I'm a developer of EREN bot, Troxx Twitch bot and Troxx Bot. Nowadays I'm study at Beltie International School Campus 7 at grade 10, I can write JavaScript, TypeScript, React.js and Python
+__***Hello I'm Meezy and you can call me EREN , I'm a developer of EREN bot, Troxx Twitch bot and Troxx Bot. Nowadays I'm study at Beltie International School Campus 7 at grade 10, I can write JavaScript, TypeScript, React.js and Python***__
 
 - 🎬 YouTuber @ [EREN Code](https://www.youtube.com/channel/UCDdwb3fXESCSVd0iE3Xs2Eg)
 - 👨🏻‍💻 Cambodian  Developer
