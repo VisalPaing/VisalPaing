@@ -28,6 +28,10 @@ If you want to sponser me I can promote ur product in my Discord Server and My s
 - 💠Facebook : [Sal Sal](https://web.facebook.com/visalpaign) <br>
 - 💠Instagrame : [visal_paing](https://www.instagram.com/visal_paing/) <br>
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/6q1UjPZdVuCxIRs4U1cRZ3?si=ffcc6a0eb3eb4777)
+
 ## 💯 My sponser
 [![Troxx](https://cdn.discordapp.com/emojis/862435461129043998.png?v=1)](https://troxx.dev/)
 [![Tv2 Business](https://cdn.discordapp.com/emojis/862437076405714955.png?v=1)](https://t.me/tv2business)
